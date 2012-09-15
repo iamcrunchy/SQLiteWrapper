@@ -1,0 +1,1 @@
+SQLiteWrapper is an attempt provide a wrapper that will enable classes and methods that access SQLite and are testable.
